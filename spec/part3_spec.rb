@@ -50,3 +50,4 @@ describe 'BookInStock' do
     end
   end
 end
+
